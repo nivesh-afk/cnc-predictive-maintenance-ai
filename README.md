@@ -121,5 +121,4 @@ These visualizations help interpret machine degradation patterns.
 - Real-time dashboard implementation
 
 
-## 📜 License
-This project is developed for academic and research purposes.
+
